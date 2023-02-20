@@ -1,4 +1,3 @@
-
 body{
     font-size: 11px;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -51,14 +50,11 @@ h3{
     flex: 1 1 auto;
     align-self: stretch;
     text-align: center;
-    line-height: 30px;
-    
-}
-.time-line {
+    line-height: 30px;    
 }
 span{
     font-weight: bold;
 }
 .more_info{
-    font-style: italic;;
+    font-style: italic;
 }
